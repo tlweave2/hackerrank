@@ -1,0 +1,20 @@
+{
+  "solutions": [
+    {
+      "name": "first",
+      "category": "algorithms/implementation",
+      "difficulty": "easy",
+      "file_path": "hackerrank_backup/algorithms/implementation/first.py",
+      "date_added": "2025-07-18T16:06:20.152963"
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "by_difficulty": {
+      "easy": 1
+    },
+    "by_category": {
+      "algorithms/implementation": 1
+    }
+  }
+}

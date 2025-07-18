@@ -30,5 +30,16 @@ Check `solutions_index.json` for detailed statistics and solution metadata.
 - Backup Tool: Custom Python script with Git integration
 - Last Updated: 2025-07-18
 
+
+## 📈 Current Statistics
+
+**Total Problems Solved:** 1
+
+### By Difficulty:
+- Easy: 1
+
+### By Category:
+- algorithms/implementation: 1
+
 ---
 *Generated automatically by HackerRank Backup Tool*
