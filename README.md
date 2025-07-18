@@ -33,13 +33,13 @@ Check `solutions_index.json` for detailed statistics and solution metadata.
 
 ## 📈 Current Statistics
 
-**Total Problems Solved:** 1
+**Total Problems Solved:** 2
 
 ### By Difficulty:
-- Easy: 1
+- Easy: 2
 
 ### By Category:
-- algorithms/implementation: 1
+- algorithms/implementation: 2
 
 ---
 *Generated automatically by HackerRank Backup Tool*

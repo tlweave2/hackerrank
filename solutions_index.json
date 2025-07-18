@@ -6,15 +6,22 @@
       "difficulty": "easy",
       "file_path": "hackerrank_backup/algorithms/implementation/first.py",
       "date_added": "2025-07-18T16:06:20.152963"
+    },
+    {
+      "name": "hello world",
+      "category": "algorithms/implementation",
+      "difficulty": "easy",
+      "file_path": "hackerrank_backup/algorithms/implementation/hello_world.py",
+      "date_added": "2025-07-18T16:09:40.923904"
     }
   ],
   "stats": {
-    "total": 1,
+    "total": 2,
     "by_difficulty": {
-      "easy": 1
+      "easy": 2
     },
     "by_category": {
-      "algorithms/implementation": 1
+      "algorithms/implementation": 2
     }
   }
 }
