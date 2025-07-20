@@ -1,7 +1,6 @@
 """
 Problem: first
-Difficulty: easy
-Category: algorithms/implementation
+Di algorithms/implementation
 URL: 
 Date Solved: 2025-07-18 16:06:20
 Notes: test
